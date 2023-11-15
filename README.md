@@ -13,12 +13,14 @@ The Boiii client was created by a unkown developer that alloweed users to play b
 
 - a PC/Laptop with an active internet connection
 
-## How to install the Boiii clinet guide!
+## How to install the Boiii client guide!
 
 ## Step 1: ##
+
 Download the exe and place it in your installed Black Ops 3 game folder. If you can't find where your exe is saved, check the downloads folder and right-click and copy and paste it into your installed black ops 3 game folder. If you get an operation failed or that a virus has been detected, try opening windows security Virus & Threat Protection\Protection History and find the section labeled Threats blocked. Hit the down arrow and Actions button> Allow. You might have to redownload the file again.
 
 
 ## Step 2: ##
+
 Download the zip folder and extract it. When you extract, make sure you do not extract it into a secondary boiii folder. Put the folder named "boiii" in C:\Users\<username>\AppData\Local\. You can open it by hitting the Windows key+R and typing %localappdata% and pressing Enter.
 
