@@ -17,7 +17,7 @@ The Boiii client was created by a unkown developer that alloweed users to play b
 
 ## Step 1: ## Download the exe and place it in your installed Black Ops 3 game folder. If you can't find where your exe is saved, check the downloads folder and right-click and copy and paste it into your installed black ops 3 game folder. If you get an operation failed or that a virus has been detected, try opening windows security Virus & Threat Protection\Protection History and find the section labeled Threats blocked. Hit the down arrow and Actions button> Allow. You might have to redownload the file again.
 
-<img>https://reactiongaming.us/community/attachments/1687576026676-png.1134</img>
+https://reactiongaming.us/community/attachments/1687576026676-png.1134
 
 ## Step 2: ## 
 
