@@ -75,7 +75,7 @@ This github contains semi-unmodified files shipped by the boiii developer. The o
 
 ReactionGaming/PS2 Classics Vault is not affiliated in any way with the boiii mod development. We are a non-profit community that loves to mod our video games for fun and research. The original developer has been ceased from future updates to this mod and we are proving these files without his permission (In fact, he asked us not to). What you see is what you get. Do not expect any further updates. We are not responsible for any future RCE/exploits to the game engine or the mod. We don't even host the master server.
 
-## Note to original Developer:
+## Note to Original Developer:
 
 The project was almost in trouble because you offered the actual game and it's dlcs and that is why activision was going on a DCMA takedown spree, If you would of just took down the game files and dlc files, you wouldn't have to even worry, that is why plutonium is still here! - Sorry, wish i could of told you in better circumstances!
 
