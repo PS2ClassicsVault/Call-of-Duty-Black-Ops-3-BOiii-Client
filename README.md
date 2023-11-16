@@ -25,7 +25,7 @@ Download the exe and place it in your installed Black Ops 3 game folder. If you 
 Download the zip folder and extract it. When you extract, make sure you do not extract it into a secondary boiii folder. Put the folder named "boiii" in C:\Users\<username>\AppData\Local\. You can open it by hitting the Windows key+R and typing %localappdata% and pressing Enter.
 
 
-![alt text](https://reactiongaming.us/community/attachments/1687576026676-png.1134/)
+![boiii zip](https://reactiongaming.us/community/attachments/1687576026676-png.1134/)
 
 
 ## Step 3: ##
@@ -38,13 +38,13 @@ Download the zip folder and extract it. When you extract, make sure you do not e
 Now drag and drop the boiii folder from the boiii.zip to your Local folder
 
 
-![boii folder](https://reactiongaming.us/community/attachments/1687576026676-png.1134/](https://reactiongaming.us/community/attachments/1687575899908-png.1132/)https://reactiongaming.us/community/attachments/1687575899908-png.1132/)
+![boiii folder](https://reactiongaming.us/community/attachments/1687575899908-png.1132/)
 
 
 
 Your boiii folder should look like this in appdata
 
-![appdata](https://reactiongaming.us/community/attachments/1687576026676-png.1134/](https://reactiongaming.us/community/attachments/1687575899908-png.1132/)https://reactiongaming.us/community/attachments/1687575899908-png.1132/)
+![appdata](https://reactiongaming.us/community/attachments/1687575899908-png.1132/)
 
 
 ## Step 5: ##
