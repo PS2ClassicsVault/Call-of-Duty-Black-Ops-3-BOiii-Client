@@ -67,9 +67,21 @@ If you are looking for the unlockall command, it doesn't exist. HOWEVER, it does
 
 This github contains semi-unmodified files shipped by the boiii developer. The only thing that changed is the master server list address. The Discord and Steam bypass bat file only creates empty files which is what the client looked for to determine if you were in the boiii testing Discord and owned the game on Steam. If you get boiii files from any other source, they may not include the RCE and other security fixes as they bypass ext.dill or other files/code, or they could contain malware. Please check this forum or our Discord. As of now, no future plans for updates are planned.
 
+ReactionGaming/PS2 Classics Vault is not affiliated in any way with the boiii mod development. We are a non-profit community that loves to mod our video games for fun and research. Our ad revenue goes out to support the forum hosting. The original developer has been ceased from future updates to this mod and we are proving these files without his permission (In fact, he asked us not to). What you see is what you get. Do not expect any further updates. We are not responsible for any future RCE/exploits to the game engine or the mod. We don't even host the master server.
+
 
 ![multiplayer](https://reactiongaming.us/community/attachments/1687580047181-png.1141/)
 
-### Virus Total:
+### Virus Total (boiii.exe):
 https://www.virustotal.com/gui/file/ea45a595246d04c975da85787772cdaeb46b957b4bf138d52a876e1e6428dd87
 
+### Virus Total (ext.dll):
+https://www.virustotal.com/gui/file/9e442b0e55f32011a9a2ceca31260b18edde487f49c9fc569e1ee0c8d188cd33?nocache=1
+
+### Note:
+If your anti-virus flagsd any files it is a false POSITIVE, allow it and your good to go!
+
+# Credits:
+
+- PeterG (https://reactiongaming.us/ Forum Owner)
+- Maurice (Boiii Client Official Developer https://github.com/momo5502)
