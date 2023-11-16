@@ -13,7 +13,7 @@ The Boiii client was originally created by developer known as Maurice that allow
 
 - You will need a legit copy of Call of Duty: Black Ops 3 (Steam) you can buy the game here: https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/
 
-- a PC/Laptop with an active internet connection
+- PC/Laptop with an active internet connection
 
 - ZombieS Chronicles DLC (Steam): https://store.steampowered.com/app/581450/Call_of_Duty_Black_Ops_III__Zombies_Chronicles/
 
