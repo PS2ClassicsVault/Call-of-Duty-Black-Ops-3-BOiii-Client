@@ -1,4 +1,4 @@
-# Welcome to the Call of Duty Black Ops 3 - BOiii Client Unofficial Github! (W.I.P)
+# Welcome to the Call of Duty Black Ops 3 - BOiii Client Unofficial Github!
 This client allows you to play black ops 3 on your PC using dedicated servers and has extra level of security that current vanilla bo3 lacks!
 
 
@@ -69,3 +69,7 @@ This github contains semi-unmodified files shipped by the boiii developer. The o
 
 
 ![multiplayer](https://reactiongaming.us/community/attachments/1687580047181-png.1141/)
+
+### Virus Total:
+https://www.virustotal.com/gui/file/ea45a595246d04c975da85787772cdaeb46b957b4bf138d52a876e1e6428dd87
+
