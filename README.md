@@ -19,6 +19,8 @@ The Boiii client was originally created by developer known as Maurice that allow
 
 -  Zombies Chronicles DLC (Steam): https://store.steampowered.com/app/581450/Call_of_Duty_Black_Ops_III__Zombies_Chronicles/
 
+-  Boiii Client Files: https://github.com/PS2ClassicsVault/Call-of-Duty-Black-Ops-3-BOiii-Client/releases
+
 ## How to install the Boiii client guide!
 
 ## Step 1: ##
