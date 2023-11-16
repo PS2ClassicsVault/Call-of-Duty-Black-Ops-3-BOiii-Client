@@ -73,7 +73,11 @@ If you are looking for the unlockall command, it doesn't exist. HOWEVER, it does
 
 This github contains semi-unmodified files shipped by the boiii developer. The only thing that changed is the master server list address. The Discord and Steam bypass bat file only creates empty files which is what the client looked for to determine if you were in the boiii testing Discord and owned the game on Steam. If you get boiii files from any other source, they may not include the RCE and other security fixes as they bypass ext.dill or other files/code, or they could contain malware. Please check this forum or our Discord. As of now, no future plans for updates are planned.
 
-ReactionGaming/PS2 Classics Vault is not affiliated in any way with the boiii mod development. We are a non-profit community that loves to mod our video games for fun and research. Our ad revenue goes out to support the forum hosting. The original developer has been ceased from future updates to this mod and we are proving these files without his permission (In fact, he asked us not to). What you see is what you get. Do not expect any further updates. We are not responsible for any future RCE/exploits to the game engine or the mod. We don't even host the master server.
+ReactionGaming/PS2 Classics Vault is not affiliated in any way with the boiii mod development. We are a non-profit community that loves to mod our video games for fun and research. The original developer has been ceased from future updates to this mod and we are proving these files without his permission (In fact, he asked us not to). What you see is what you get. Do not expect any further updates. We are not responsible for any future RCE/exploits to the game engine or the mod. We don't even host the master server.
+
+## Note to orginal Developer:
+
+The project was almost in trouble becasue you offered the actual gsame and it's dlcs and that is why activision was going on a DCMA takedown spree, that is why plutonium is still here!
 
 
 ![multiplayer](https://reactiongaming.us/community/attachments/1687580047181-png.1141/)
