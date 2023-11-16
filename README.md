@@ -38,13 +38,13 @@ Download the zip folder and extract it. When you extract, make sure you do not e
 Now drag and drop the boiii folder from the boiii.zip to your Local folder
 
 
-![alt text](https://reactiongaming.us/community/attachments/1687576026676-png.1134/](https://reactiongaming.us/community/attachments/1687575899908-png.1132/)https://reactiongaming.us/community/attachments/1687575899908-png.1132/)
+![boii folder](https://reactiongaming.us/community/attachments/1687576026676-png.1134/](https://reactiongaming.us/community/attachments/1687575899908-png.1132/)https://reactiongaming.us/community/attachments/1687575899908-png.1132/)
 
 
 
 Your boiii folder should look like this in appdata
 
-![alt text](https://reactiongaming.us/community/attachments/1687576026676-png.1134/](https://reactiongaming.us/community/attachments/1687575899908-png.1132/)https://reactiongaming.us/community/attachments/1687575899908-png.1132/)
+![appdata](https://reactiongaming.us/community/attachments/1687576026676-png.1134/](https://reactiongaming.us/community/attachments/1687575899908-png.1132/)https://reactiongaming.us/community/attachments/1687575899908-png.1132/)
 
 
 ## Step 5: ##
@@ -68,4 +68,4 @@ If you are looking for the unlockall command, it doesn't exist. HOWEVER, it does
 This github contains semi-unmodified files shipped by the boiii developer. The only thing that changed is the master server list address. The Discord and Steam bypass bat file only creates empty files which is what the client looked for to determine if you were in the boiii testing Discord and owned the game on Steam. If you get boiii files from any other source, they may not include the RCE and other security fixes as they bypass ext.dill or other files/code, or they could contain malware. Please check this forum or our Discord. As of now, no future plans for updates are planned.
 
 
-![alt text](https://reactiongaming.us/community/attachments/1687576026676-png.1134/](https://reactiongaming.us/community/attachments/1687575899908-png.1132/)https://reactiongaming.us/community/attachments/1687575899908-png.1132/](https://reactiongaming.us/community/attachments/1687580047181-png.1141/)https://reactiongaming.us/community/attachments/1687580047181-png.1141/)
+![multiplayer](https://reactiongaming.us/community/attachments/1687580047181-png.1141/)
