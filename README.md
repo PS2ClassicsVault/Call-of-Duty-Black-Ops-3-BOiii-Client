@@ -44,7 +44,7 @@ Now drag and drop the boiii folder from the boiii.zip to your Local folder
 
 Your boiii folder should look like this in appdata
 
-![appdata](https://reactiongaming.us/community/attachments/1687575899908-png.1132/)
+![appdata](https://reactiongaming.us/community/attachments/1687630604369-png.1136/)
 
 
 ## Step 5: ##
