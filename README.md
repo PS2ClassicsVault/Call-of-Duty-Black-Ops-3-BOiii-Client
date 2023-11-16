@@ -3,7 +3,7 @@ This client allows you to play black ops 3 on your PC using dedicated servers an
 
 ## WARNING:
 
-We will not provide any dlc/pirated versions of Call of Duty: Black Ops 3, We knidly ask that you support the developers of BO3 (Treyarch) by purchasing the actual game and it's dlc. This guide it just to show you how to add this client to your current install of Black Ops 3 w/out providing the game and it's dlc.
+We will not provide any dlc/pirated versions of Call of Duty: Black Ops 3, We knidly ask that you support the developers of BO3 (Treyarch) by purchasing the actual game and it's dlc. This guide it just to show you how to add this client to your current install of Black Ops 3 w/out providing the game and it's dlc. Any links that provides the game & it's files are not associated with this github and we are not responsible if external links not provided on here act on malicious behavior!
 
 ## What is the Boiii Client?
 
@@ -14,6 +14,8 @@ The Boiii client was originally created by developer known as Maurice that allow
 - You will need a legit copy of Call of Duty: Black Ops 3 (Steam) you can buy the game here: https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/
 
 - a PC/Laptop with an active internet connection
+
+- ZombieS Chronicles DLC (Steam): https://store.steampowered.com/app/581450/Call_of_Duty_Black_Ops_III__Zombies_Chronicles/
 
 ## How to install the Boiii client guide!
 
