@@ -77,7 +77,7 @@ ReactionGaming/PS2 Classics Vault is not affiliated in any way with the boiii mo
 
 ## Note to original Developer:
 
-The project was almost in trouble becasue you offered the actual gsame and it's dlcs and that is why activision was going on a DCMA takedown spree, that is why plutonium is still here!
+The project was almost in trouble because you offered the actual gsame and it's dlcs and that is why activision was going on a DCMA takedown spree, that is why plutonium is still here! - Sorry, wish i could of told you in better circumstances!
 
 
 ![multiplayer](https://reactiongaming.us/community/attachments/1687580047181-png.1141/)
