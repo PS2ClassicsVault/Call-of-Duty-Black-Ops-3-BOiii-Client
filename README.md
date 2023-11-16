@@ -15,7 +15,7 @@ The Boiii client was originally created by developer known as Maurice that allow
 
 - PC/Laptop with an active internet connection
 
-- ZombieS Chronicles DLC (Steam): https://store.steampowered.com/app/581450/Call_of_Duty_Black_Ops_III__Zombies_Chronicles/
+-  Zombies Chronicles DLC (Steam): https://store.steampowered.com/app/581450/Call_of_Duty_Black_Ops_III__Zombies_Chronicles/
 
 ## How to install the Boiii client guide!
 
